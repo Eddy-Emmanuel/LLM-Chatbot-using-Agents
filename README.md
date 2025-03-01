@@ -3,7 +3,7 @@
 
 EddyAI-Chat is an advanced AI assistant that helps with calculations, Wikipedia searches, real-time information retrieval, and more. Built using **Streamlit**, **LangChain**, and **Python**, it offers an interactive chatbot experience with support for handling links and general queries.  
 
-![EddyAI-Chat](https://user-images.githubusercontent.com/your-image.png) *(Optional: Add an image or demo GIF here)*  
+![EddyAI-Chat](result.png) 
 
 ---
 
